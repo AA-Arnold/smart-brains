@@ -1,3 +1,4 @@
+## Face-Detection 
 This is a web app that allows you detect the faces in an image, with the power of machine learning. 
 the frontend was created using reactjs, the face detection is done using clarifai API, 
 the backend consists of an oak server, and the database being used is MongoDB. 
