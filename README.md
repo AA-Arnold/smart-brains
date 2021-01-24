@@ -6,4 +6,4 @@ The app is hosted on heroku
 
 <img src="https://github.com/AA-Arnold/smart-brains/blob/master/smart-brains%20demo.png" alt="face detection demo"/>
 
-The part in this repo is the frontend. The repo for the backend is here [Link](https://github.com/AA-Arnold/deno-smart-brain-api).
+The part in this repo is the frontend. The repository for the backend is here [Link](https://github.com/AA-Arnold/deno-smart-brain-api).
